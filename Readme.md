@@ -202,14 +202,14 @@ personalized-book-recommender/
 
 ### Reference Images
 
-1. ![Recommender_system](assets/Recommender_system.png)
-2. ![Why??](assets/Why_recommender_systems.png)
-3. ![Types](assets/Types.png)
-4. ![Popularity_Based](assets/popularity_based.png)
-5. ![Collabarative_Based](assets/Collabarative.png)
-6. ![Collabarative_Based](assets/Collabarative_2.png)
-7. ![Collabarative_Based](assets/Collab_3.png)
-8. ![Dataset](assets/dataset.png)
+   ![Recommender_system](assets/Recommender_system.png)
+   ![Why??](assets/Why_recommender_systems.png)
+   ![Types](assets/Types.png)
+   ![Popularity_Based](assets/popularity_based.png)
+   ![Collabarative_Based](assets/Collabarative.png)
+   ![Collabarative_Based](assets/Collabarative_2.png)
+   ![Collabarative_Based](assets/Collab_3.png)
+   ![Dataset](assets/dataset.png)
 
 
 ## License
