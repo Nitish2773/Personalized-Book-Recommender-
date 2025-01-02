@@ -197,7 +197,8 @@ personalized-book-recommender/
 ## References
 
 - **Dataset Link:** [Kaggle Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
-- **Demo Video:** [Watch the project demo](https://example.com/demo-video)
+- **Demo Video:**
+- https://github.com/user-attachments/assets/b5844279-e230-47d3-8e5c-9063479144ea
 
 ### Reference Images
 
